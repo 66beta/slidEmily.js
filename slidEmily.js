@@ -1,11 +1,3 @@
-/***************************************
- * Version: slidEmily 0.6
- * Author:   66
- * Blog:     66beta.com
- * Feedback: orion6sky(At)gmail.com
- * Create:   2011.04.22 01:02
- * Update:   2011.05.11 16:08
-***************************************/
 (function($) {
     $.fn.slidEmily = function(options) {
         var defaults = {
